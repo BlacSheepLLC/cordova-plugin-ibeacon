@@ -17,6 +17,9 @@
          under the License.
 -->
 
+# Forked repository changes
+
+The original plugin has been edited so that it can be used with another plugin that also uses the Android Beacon Library
 
 ## ![iBeacon Cordova Plugin](http://icons.iconarchive.com/icons/artua/mac/128/Bluetooth-icon.png) Cordova / Phonegap iBeacon plugin
 
