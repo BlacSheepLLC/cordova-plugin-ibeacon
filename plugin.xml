@@ -99,13 +99,13 @@
 					<action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
 				</intent-filter>
 			</receiver>
-            <service android:enabled="true"
+            <!-- <service android:enabled="true"
                      android:exported="true"
                      android:isolatedProcess="false"
                      android:label="iBeacon"
                      android:name="org.altbeacon.beacon.service.BeaconService">
                      <meta-data android:name="longScanForcingEnabled" android:value="true" />
-            </service>
+            </service> -->
             <service android:enabled="true"
                      android:name="org.altbeacon.beacon.BeaconIntentProcessor">
                 <meta-data android:name="background" android:value="true" />
