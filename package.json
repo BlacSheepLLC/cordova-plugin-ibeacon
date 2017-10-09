@@ -1,9 +1,9 @@
 {
-  "name": "com.unarin.cordova.beacon.lab651",
+  "name": "com.unarin.cordova.beacon",
   "version": "3.5.2",
   "description": "Proximity Beacon Monitoring and Transmission Plugin (supporting iBeacons)",
   "cordova": {
-    "id": "com.unarin.cordova.beacon.lab651",
+    "id": "com.unarin.cordova.beacon",
     "platforms": [
       "ios",
       "android"
