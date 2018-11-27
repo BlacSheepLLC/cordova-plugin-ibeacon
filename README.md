@@ -21,6 +21,11 @@
 
 The original plugin has been edited so that it can be used with another plugin that also uses the Android Beacon Library
 
+Installation for Ionic 3/cordova 
+```
+ionic cordova plugin add https://github.com/lab651/cordova-plugin-ibeacon.git#v3.x
+```
+
 ## ![iBeacon Cordova Plugin](http://icons.iconarchive.com/icons/artua/mac/128/Bluetooth-icon.png) Cordova / Phonegap iBeacon plugin
 
 ### Features
